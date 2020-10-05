@@ -5,7 +5,6 @@
     <img src='https://img.shields.io/badge/Django REST Framework-3.12.x-red'></img>
     <img src='https://img.shields.io/badge/React-16.13.x-blue'></img>
     <img src='https://img.shields.io/badge/React Native-0.63-blue'></img>
-    <img src='https://img.shields.io/github/license/Mika-IO/tRadeButton'></img>
 </div>
 
 ## *Website*
