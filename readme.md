@@ -1,5 +1,5 @@
 <div align='center'>
-    <h1><b>tRadeButton</b></h1>
+    <h1><b>tRadeButton :black_square_button:</b></h1>
     <img src='https://img.shields.io/badge/Python-3.8-blue'></img>
     <img src='https://img.shields.io/badge/Django-3-green'></img>
     <img src='https://img.shields.io/badge/Django REST Framework-3.12.x-red'></img>
@@ -16,7 +16,7 @@
 
 # :pushpin: **TODO FEATURES** 
 
-> descripts todo :heavy_check_mark:
+> Descripts todo :heavy_check_mark:
 
 > API :warning:
 
