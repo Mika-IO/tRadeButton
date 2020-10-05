@@ -11,7 +11,7 @@
 
 ## *Website*
 
-[tRadeButton](https://www.tradebutton.tk/)
+[tRadeButton.tk](https://www.tradebutton.tk/)
 
 
 # :pushpin: **TODO FEATURES** 
