@@ -1,56 +1,25 @@
-FUNCIONALIDADES DO ROBÔ:
+<div align='center'>
+    <h1><b>tRadeButton</b></h1>
+    <img src='https://img.shields.io/badge/Python-3.8-blue'></img>
+    <img src='https://img.shields.io/badge/Django-3-green'></img>
+    <img src='https://img.shields.io/badge/Django REST Framework-3.12.x-red'></img>
+    <img src='https://img.shields.io/badge/React-16.13.x-blue'></img>
+    <img src='https://img.shields.io/badge/React Native-0.63-blue'></img>
+    <img src='https://img.shields.io/github/license/Mika-IO/tRadeButton'></img>
+    
+</div>
 
-Funcionará por nuvem, e será por lista de sinais!
+## *Website*
 
-CONFIGURAÇÕES: 
-
-GERENCIAMENTO- ENTRADAS FIXAS, SOROS, SOROSGALE! 
-
-OPÇÃO DE PRÉ STOP LOSS! 
-
-PRIORIDADE: BINÁRIAS, DIGITAL OU MAIOR PAYOUT
-
-ORIGEM DE ENTRADAS: LISTA DE SINAIS! 
-
-OPÇÃO DE NÃO OPERAR EM NOTÍCIAS - QUANTIDADE DE MINUTOS ANTES E MINUTOS DEPOIS
-
-OPÇÃO DE TENDÊNCIA: NÃO OPERAR CONTRA TENDÊNCIA OU POR QUANTIDADE DE VELAS CONTRA O SINAL NAQUELE MOMENTO, EX: SINAL PRA CALL, MAS TEM 5 VELAS VERMELHAS SEGUIDAS, NESSE CASO O ROBÔ NÃO DEVE FAZER A ENTRADA! 
-
-SALDO INICIAL
-EX: QUANTO A PESSOA VAI COMEÇAR NO DIA! 
-
-OPÇÕES DE ENTRADA: 
-
-PAYOUT MÍNIMO %: 
-QUANTIDADE DE GALES:
-
-TIPOS DE STOP: 
-
-VALOR OU PERCENTUAL
-STOP GAIN: 
-STOP LOSS: 
-
-OPÇÃO DE ENVIAR O RESULTADO FINAL DE CADA OPERAÇÃO POR UM BOT NO TELEGRAM, E QUANDO BATER O STOP LOSS OU STOP GAIN, ENVIAR UM ALERTA! 
+[tRadeButton](https://www.tradebutton.tk/)
 
 
-ENTRADAS FIXAS: 
+# :pushpin: **TODO FEATURES** 
 
-TIPO: VALOR OU PERCENTUAL
+> descripts todo :heavy_check_mark:
 
-1° ENTRADA:
-GALE 1: 
-GALE 2
+> API :warning:
 
+> SPA :warning:
 
-SOROSGALE: 
-
-1° ENTRADA %:
-MODELO: CONSERVADOR, MODERADO E AGRESSIVO!
-
-
-SOROS: 
-
-TIPO: VALOR OU PERCENTUAL!
-
-1° ENTRADA: 
-NÍVEL:
+> Native app :warning:
