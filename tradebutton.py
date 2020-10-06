@@ -1,4 +1,3 @@
-import eel
 from iqoptionapi.stable_api import IQ_Option
 from time import sleep
 from json import dumps
